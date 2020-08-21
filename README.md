@@ -6,5 +6,6 @@ Creado con:
 * Handlebars como template engine
 * MongoDB (localhost pero también funcionaría -de hecho se probó así- en cluster en MongoDB Atlas
 * Módulos en npm: mongoose, morgan, multer, fs-extra, errorhandler, md5, moment
+* No es necesario compilar con webpack
 
 Créditos: Todo el crédito a fazt, gracias. www.faztweb.com 
